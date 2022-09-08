@@ -1,5 +1,5 @@
 # 👋 Hello:
-Hey, Joel here - creator of digital experiences! I'm a front end web developer from Germany.
+Hey, Joel here – creator of digital experiences! I'm a front end web developer from Germany.
 
 
 # 💻 Tech Stack:
