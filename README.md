@@ -7,7 +7,7 @@ Follow me (@joelschrage):<br />
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,mongodb,git,github,linux,wordpress,figma,ps,ai,pr,ae&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,mongodb,git,github,linux,wordpress,figma,ps,ai,pr,ae&perline=10)](https://skillicons.dev)
 <br />
 <br />
 
