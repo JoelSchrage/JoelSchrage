@@ -1,8 +1,10 @@
 # 👋 Hello:
 Joel here – creator of digital experiences! I'm a front end web developer from Germany.
 
+<!--
 Follow me (@joelschrage):<br />
 👾 <a href="" target="_blank">YouTube</a> &nbsp;&nbsp; 👽 <a href="" target="_blank">Discord</a> &nbsp;&nbsp; 📹 <a href="" target="_blank">TikTok</a> &nbsp;&nbsp; 🎥 <a href="" target="_blank">Twitch</a> &nbsp;&nbsp; 📸 <a href="" target="_blank">Instagram</a> &nbsp;&nbsp; 🐦 <a href="" target="_blank">Twitter</a><br />
+-->
 <br />
 
 # 💻 Tech Stack:
